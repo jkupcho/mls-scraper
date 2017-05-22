@@ -1,0 +1,21 @@
+{
+  "BathsTotal": "2.0",
+  "BedsTotal": "3",
+  "City": "New Berlin",
+  "Latitude": 43.009609,
+  "ListAgentId": "1234",
+  "ListPrice": 259000.0,
+  "ListingId": "1529680",
+  "ListingKey": "20170516184941000272000000",
+  "Longitude": -88.095234,
+  "MlsId": "20010602000846355519000000",
+  "MlsStatus": "Active",
+  "PostalCode": "53151-2316",
+  "StateOrProvince": "WI",
+  "StreetAdditionalInfo": "Dirt",
+  "StreetDirPrefix": "W",
+  "StreetDirSuffix": "N",
+  "StreetName": "Honey Ln",
+  "StreetNumber": "14580",
+  "StreetSuffix": "NW"
+}
