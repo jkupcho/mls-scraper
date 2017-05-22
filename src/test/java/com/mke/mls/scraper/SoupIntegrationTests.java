@@ -51,8 +51,7 @@ public class SoupIntegrationTests {
 
     @Test
     public void parseDetailPage() throws Exception {
-        Jsoup.parse(detailResponse, "UTF-8")
-            ;
+        Jsoup.parse(detailResponse, "UTF-8");
     }
 
 }
